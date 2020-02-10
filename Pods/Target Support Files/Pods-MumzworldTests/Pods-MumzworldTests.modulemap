@@ -1,0 +1,6 @@
+framework module Pods_MumzworldTests {
+  umbrella header "Pods-MumzworldTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
